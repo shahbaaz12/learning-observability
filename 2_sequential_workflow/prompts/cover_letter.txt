@@ -1,0 +1,9 @@
+Write a short cover letter for Maya Rao applying for the Junior Data Analyst role at Cedar Health.
+
+Use the requirements and candidate profile below. Mention only experience supported by the profile. Do not invent jobs, qualifications, or Power BI experience. Keep the letter to one short paragraph.
+
+Requirements:
+{requirements}
+
+Candidate profile:
+{candidate_profile}

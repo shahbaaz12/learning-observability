@@ -1,0 +1,26 @@
+[
+  {
+    "case_id": "hr-001",
+    "question": "How many days of paid annual leave do full-time employees receive per calendar year?"
+  },
+  {
+    "case_id": "hr-002",
+    "question": "How far in advance must an employee submit an annual leave request, and who approves it?"
+  },
+  {
+    "case_id": "hr-003",
+    "question": "What notice period must a full-time employee serve when resigning?"
+  },
+  {
+    "case_id": "hr-004",
+    "question": "When is monthly salary paid?"
+  },
+  {
+    "case_id": "hr-005",
+    "question": "How much paid annual leave does a full-time employee receive each year, and what notice period applies if they resign?"
+  },
+  {
+    "case_id": "hr-006",
+    "question": "How many days of paid sick leave do full-time employees receive per calendar year?"
+  }
+]

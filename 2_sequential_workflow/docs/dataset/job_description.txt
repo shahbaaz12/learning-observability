@@ -1,0 +1,8 @@
+Junior Data Analyst — Cedar Health (fictional)
+
+We need someone who can:
+- Use SQL to answer questions from our data.
+- Clean and analyze weekly CSV reports with Python.
+- Summarize findings clearly for nontechnical teammates.
+
+Experience with Power BI is helpful but not required.

@@ -1,0 +1,6 @@
+Read the job description and list exactly three required skills or tasks.
+Write one short bullet point for each. Do not include qualifications described as helpful or preferred.
+Use only the job description; do not add requirements.
+
+Job description:
+{job_description}

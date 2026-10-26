@@ -1,0 +1,6 @@
+Maya Rao — fictional candidate
+
+- Used SQL to answer questions about a college club's membership data.
+- Cleaned weekly CSV exports with Python and pandas for a class project.
+- Presented short summaries of the findings to nontechnical classmates.
+- Has not used Power BI.

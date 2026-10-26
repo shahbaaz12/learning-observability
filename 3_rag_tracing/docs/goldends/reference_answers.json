@@ -1,0 +1,50 @@
+[
+  {
+    "case_id": "hr-001",
+    "case_type": "direct",
+    "answerable": true,
+    "expected_answer": "Full-time employees receive 18 days of paid annual leave per calendar year.",
+    "relevant_section_ids": ["LEAVE-001"],
+    "review_status": "draft"
+  },
+  {
+    "case_id": "hr-002",
+    "case_type": "direct",
+    "answerable": true,
+    "expected_answer": "An annual leave request must be submitted at least five working days before the planned leave begins. The employee's reporting manager must approve it before the leave is confirmed.",
+    "relevant_section_ids": ["LEAVE-002"],
+    "review_status": "draft"
+  },
+  {
+    "case_id": "hr-003",
+    "case_type": "direct",
+    "answerable": true,
+    "expected_answer": "Full-time employees must serve a notice period of 30 calendar days when resigning.",
+    "relevant_section_ids": ["NOTICE-001"],
+    "review_status": "draft"
+  },
+  {
+    "case_id": "hr-004",
+    "case_type": "direct",
+    "answerable": true,
+    "expected_answer": "Monthly salary is paid on the last working day of each month.",
+    "relevant_section_ids": ["PAYROLL-001"],
+    "review_status": "draft"
+  },
+  {
+    "case_id": "hr-005",
+    "case_type": "multi_source",
+    "answerable": true,
+    "expected_answer": "Full-time employees receive 18 days of paid annual leave per calendar year and must serve a notice period of 30 calendar days when resigning.",
+    "relevant_section_ids": ["LEAVE-001", "NOTICE-001"],
+    "review_status": "draft"
+  },
+  {
+    "case_id": "hr-006",
+    "case_type": "unsupported",
+    "answerable": false,
+    "expected_answer": "The supplied policies do not specify how many days of paid sick leave full-time employees receive.",
+    "relevant_section_ids": [],
+    "review_status": "draft"
+  }
+]
